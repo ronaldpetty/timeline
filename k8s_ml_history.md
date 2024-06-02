@@ -7,7 +7,7 @@ timeline
         : Cloud
         : Platform
     1.1 : 
-        : Jobs, HPA, Daemonsets
+        : Jobs,HPA,Daemonsets
         : 
         : 
         : 
