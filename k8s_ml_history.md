@@ -6,6 +6,16 @@ timeline
         : CNCF
         : Cloud
         : Platform
+    pre-1.0 : a
+        : a
+        : a
+        : a
+        : Amazon ECS
+    1.0 : a
+        : a
+        : a
+        : GKE
+        : a      
     1.1 : a
         : Jobs HPA Daemonsets
         : a
@@ -33,5 +43,8 @@ timeline
     1.9 : a
     1.10 : a
          : Istio
+         : a
+         : Azure AKS, Amazon EKS
+         : a
 
 ```
