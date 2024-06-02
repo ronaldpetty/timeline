@@ -11,144 +11,159 @@ timeline
         : <br>
         : <br>
         : Amazon ECS
-    1.0 : a
-        : a
+    1.0 : <br>
+        : <br>
         : CNCF
         : GKE
-        : a      
+        : <br>   
     1.1 : Jobs<br>HPA<br>Daemonsets
-        : a
-        : a
-        : a
-        : a
+        : <br>
+        : <br>
+        : <br>
+        : <br>
     1.2 : ConfigMaps<br>Deployments<br>Ingress<br>Custom Metrics<br>Persistent Volumes
-        : a
-        : a
-        : a
-        : a
+        : <br>
+        : <br>
+        : <br>
+        : <br>
     1.3 : NVIDIA Support
-        : a
-        : a
-        : a
-        : a
-    1.4 : StorageClass Schedule Affinity
+        : <br>
+        : <br>
+        : <br>
+        : <br>
+    1.4 : StorageClass<br>Schedule Affinity
         : Helm
-        : a
-        : a
-        : a
+        : <br>
+        : <br>
+        : <br>
     1.5 : StatefulSets
-        : a
-        : a
-        : a
-        : a
-    1.6 : RBAC Multible Schedlers Accelerator Normalizating
-        : a
-        : a
-        : a
-        : a
+        : <br>
+        : <br>
+        : <br>
+        : <br>
+    1.6 : RBAC<br>Multible Schedulers<br>Accelerator Normalizating
+        : <br>
+        : <br>
+        : <br>
+        : <br>
     1.7 : Custom Resource Defintions
-        : a
+        : <br>
         : CNCF KCSP
-        : a
-        : a
-    1.8 : a
-        : a
+        : <br>
+        : <br>
+    1.8 : <br>
+        : <br>
         : K8s SIGs
-        : a
-        : a
-    1.9 : a
-        : a
-        : a
-        : a
-        : a
-    1.10 : Node Metrics Node Resource Controls
+        : <br>
+        : <br>
+    1.9 : <br>
+        : <br>
+        : <br>
+        : <br>
+        : <br>
+    1.10 : Node Metrics<br>Node Resource Controls
          : Istio
-         : a
-         : Azure AKS, Amazon EKS
-         : a
-    1.11 : Pod Priority Pod Preemption
-         : a
-         : a
-         : a
-         : a
+         : <br>
+         : Azure AKS<br>Amazon EKS
+         : <br>
+    1.11 : Pod Priority<br>Pod Preemption
+         : <br>
+         : <br>
+         : <br>
+         : <br>
     1.12 : Scaling Improvements
-         : a
-         : a
-         : a
-         : a
-    1.13 : a
-         : a
-         : a
-         : a
-         : a
-    1.14 : a
-         : a
-         : a
-         : a
-         : a
-    1.15 : a
-         : a
-         : a
-         : a
-         : a
-    1.16 : a
-         : a
-         : a
-         : a
-         : a
-    1.17 : a
-         : a
-         : a
-         : a
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.13 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.14 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.15 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.16 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.17 : <br>
+         : <br>
+         : <br>
+         : <br>
          : Kubeflow
-    1.18 : a
-         : a
-         : a
-         : a
-         : a
-    1.19 : Storage Capacity Tracking Immutable Secrets ConfigMaps
-         : a
-         : a
-         : a
-         : a
+    1.18 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.19 : Storage Capacity Tracking<br>Immutable Secrets and ConfigMaps
+         : <br>
+         : <br>
+         : <br>
+         : <br>
     1.20 : Accelerator Metrics (broken)
-         : a
-         : a
-         : a
-         : a
-    1.21 : a
-         : a
-         : a
-         : a
-         : a
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.21 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
     1.22 : QOS Memory Resources
-         : a
-         : a
-         : a
-         : a
-    1.23 : a
-         : a
-         : a
-         : a
-         : a
-    1.24 : a
-         : a
-         : a
-         : a
-         : a
-    1.25 : a
-         : a
-         : a
-         : a
-         : a
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.23 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.24 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.25 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
     1.26 : Schedule GPUs
-         : a
-         : a
-         : a
-         : a
+         : <br>
+         : <br>
+         : <br>
+         : <br>
     1.27 : Dynamic Resource Allocation
-         : a
-         : a
-         : a
-         : a
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.28 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.29 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
+    1.30 : <br>
+         : <br>
+         : <br>
+         : <br>
+         : <br>
 ```
