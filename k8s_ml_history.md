@@ -6,10 +6,10 @@ timeline
         : CNCF
         : Cloud
         : Platform
-    pre-1.0 : &nbsp;
-        : &nbsp;
-        : &nbsp;
-        : &nbsp;
+    pre-1.0 : &#160;
+        : &#160;
+        : &#160;
+        : &#160;
         : Amazon ECS
     1.0 : a
         : a
