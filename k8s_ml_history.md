@@ -16,12 +16,12 @@ timeline
         : CNCF
         : GKE
         : a      
-    1.1 : Jobs<br/>HPA<br/>Daemonsets
+    1.1 : Jobs<br>HPA<br>Daemonsets
         : a
         : a
         : a
         : a
-    1.2 : ConfigMaps Deployments<br/>Ingress Custom Metrics<br/>Persistent Volumes
+    1.2 : ConfigMaps<br>Deployments<br>Ingress<br>Custom Metrics<br>Persistent Volumes
         : a
         : a
         : a
