@@ -1,9 +1,9 @@
 ```mermaid
 timeline
-    title History of Social Media Platform
-    2002 : LinkedIn
-    2004 : Facebook2
+    title Enabling ML with Kubernetes
+    1.1 : LinkedIn
+    1.2 : Facebook2
          : Google
-    2005 : Youtube
-    2006 : Twitter
+    1.3 : Youtube
+    1.4 : Twitter
 ```
