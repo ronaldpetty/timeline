@@ -46,5 +46,39 @@ timeline
          : a
          : Azure AKS, Amazon EKS
          : a
-
+    1.11 : a
+         : a
+         : a
+         : a
+         : a
+    1.12 : a
+         : a
+         : a
+         : a
+         : a
+    1.13 : a
+         : a
+         : a
+         : a
+         : a
+    1.14 : a
+         : a
+         : a
+         : a
+         : a
+    1.15 : a
+         : a
+         : a
+         : a
+         : a
+    1.16 : a
+         : a
+         : a
+         : a
+         : a
+    1.17 : a
+         : a
+         : a
+         : a
+         : Kubeflow
 ```
